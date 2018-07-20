@@ -1,0 +1,14 @@
+.timer{
+	text-align: center;
+	color: #EE086F;
+}
+.text{
+	background-color: #51E41D;
+	text-align: center;
+	font-size: 40px;
+	border-radius: 70%;
+	padding: 24px;
+	
+	position: absolute;
+	left: 603px;
+}
